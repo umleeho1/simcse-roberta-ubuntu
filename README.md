@@ -13,7 +13,8 @@ dev.csv  자기소개서 채용공고 스코어 형태의 유사도 데이터
 | SimCSE-RoBERTasmall-matching  | 53.12          | 53.09           | 52.31             | 53.24              | 52.81             | 53.65              | 48.08       | 48.35        |
 
 
-#reference
+#reference  
+
 `@article{ham2020kornli,
   title={KorNLI and KorSTS: New Benchmark Datasets for Korean Natural Language Understanding},
   author={Ham, Jiyeon and Choe, Yo Joong and Park, Kyubyong and Choi, Ilji and Soh, Hyungjoon},
